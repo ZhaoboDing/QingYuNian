@@ -15,7 +15,7 @@ def crawl_content(url):
 def crawl_chapter(chapter):
     chapter = chapter.a
     href = chapter.attrs['href']
-    with open('book/' + str(next(counter)) + '.txt', 'w', encoding='utf-8') as file:
+    with open('book/' + str(next(counter)), 'w', encoding='utf-8') as file:
         json.dump(crawl_content(href), file)
 
 

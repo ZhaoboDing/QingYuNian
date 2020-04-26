@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56b41cd7-9a25-44a9-9409-f42f9c2b0628" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawler-QingYuNian.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawler-QingYuNian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/101.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/102.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/103.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/104.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/105.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/106.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/107.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/108.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/109.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/110.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/111.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/112.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/113.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/114.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/115.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/116.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/117.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/118.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/119.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/120.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/121.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/122.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/124.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/125.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/126.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/127.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/128.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/129.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/130.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/131.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/132.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/133.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/134.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/135.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/136.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/137.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/138.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/139.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/140.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/141.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/142.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/143.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/144.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/145.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/146.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/147.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/148.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/149.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/151.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/152.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/153.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/154.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/155.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/156.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/157.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/158.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/159.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/160.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/161.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/162.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/163.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/164.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/165.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/166.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/167.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/168.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/169.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/170.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/171.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/172.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/173.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/174.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/175.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/176.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/177.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/178.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/179.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/180.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/181.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/182.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/183.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/184.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/185.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/186.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/187.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/188.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/189.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/190.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/191.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/192.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/193.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/194.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/195.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/196.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/197.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/198.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/199.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/201.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/202.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/203.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/204.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/205.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/206.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/207.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/208.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/209.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/210.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/211.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/212.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/213.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/214.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/215.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/216.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/217.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/218.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/219.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/220.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/221.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/222.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/223.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/224.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/225.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/226.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/227.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/228.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/229.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/230.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/231.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/232.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/233.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/234.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/235.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/236.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/237.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/238.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/239.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/240.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/241.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/242.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/243.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/244.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/245.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/246.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/247.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/248.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/249.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/250.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/251.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/252.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/253.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/254.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/255.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/256.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/257.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/258.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/259.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/260.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/261.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/262.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/263.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/264.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/265.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/266.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/267.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/268.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/269.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/270.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/271.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/272.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/273.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/274.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/275.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/276.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/277.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/278.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/279.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/280.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/281.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/282.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/283.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/284.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/285.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/286.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/287.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/288.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/289.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/290.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/291.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/292.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/293.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/294.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/295.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/296.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/297.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/298.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/299.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/300.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/301.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/302.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/303.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/304.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/305.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/306.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/307.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/308.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/309.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/310.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/311.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/312.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/313.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/314.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/315.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/316.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/317.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/318.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/319.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/320.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/321.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/322.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/323.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/324.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/325.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/326.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/327.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/328.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/329.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/330.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/331.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/332.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/333.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/334.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/335.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/336.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/337.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/338.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/339.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/340.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/341.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/342.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/343.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/344.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/345.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/346.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/347.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/348.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/349.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/35.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/350.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/351.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/352.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/353.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/354.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/355.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/356.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/357.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/358.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/359.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/360.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/361.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/362.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/363.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/364.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/365.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/366.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/367.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/368.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/369.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/370.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/371.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/372.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/373.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/374.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/375.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/376.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/377.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/378.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/379.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/38.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/380.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/381.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/382.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/383.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/384.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/385.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/386.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/387.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/388.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/389.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/39.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/390.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/391.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/392.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/393.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/394.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/395.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/396.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/397.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/398.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/399.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/400.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/401.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/402.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/403.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/404.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/405.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/406.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/407.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/408.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/409.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/410.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/411.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/412.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/413.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/414.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/415.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/416.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/417.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/418.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/419.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/420.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/421.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/422.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/423.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/424.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/425.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/426.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/427.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/428.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/429.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/430.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/431.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/432.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/433.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/434.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/435.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/436.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/437.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/438.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/439.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/44.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/440.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/441.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/442.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/443.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/444.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/445.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/446.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/447.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/448.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/449.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/45.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/450.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/451.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/452.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/453.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/454.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/455.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/456.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/457.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/458.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/459.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/46.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/460.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/461.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/462.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/463.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/464.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/465.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/466.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/467.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/468.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/469.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/470.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/471.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/472.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/473.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/474.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/475.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/476.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/477.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/478.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/479.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/480.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/481.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/482.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/483.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/484.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/485.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/486.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/487.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/488.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/489.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/49.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/490.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/491.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/492.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/493.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/494.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/495.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/496.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/497.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/498.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/499.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/500.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/501.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/502.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/503.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/504.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/505.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/506.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/507.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/508.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/509.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/51.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/510.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/511.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/512.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/513.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/514.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/515.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/516.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/517.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/518.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/519.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/52.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/520.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/521.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/522.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/523.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/524.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/525.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/526.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/527.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/528.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/529.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/53.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/530.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/531.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/532.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/533.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/534.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/535.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/536.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/537.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/538.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/539.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/54.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/540.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/541.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/542.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/543.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/544.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/545.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/546.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/547.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/548.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/549.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/55.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/550.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/551.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/552.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/553.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/554.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/555.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/556.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/557.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/558.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/559.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/56.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/560.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/561.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/562.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/563.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/564.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/565.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/566.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/567.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/568.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/569.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/57.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/570.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/571.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/572.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/573.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/574.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/575.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/576.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/577.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/578.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/579.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/58.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/580.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/581.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/582.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/583.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/584.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/585.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/586.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/587.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/588.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/589.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/59.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/590.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/591.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/592.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/593.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/594.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/595.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/596.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/597.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/598.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/599.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/60.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/600.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/601.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/602.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/603.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/604.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/605.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/606.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/607.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/608.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/609.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/61.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/610.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/611.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/612.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/613.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/614.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/615.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/616.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/617.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/618.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/619.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/62.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/620.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/621.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/622.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/623.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/624.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/625.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/626.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/627.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/628.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/629.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/63.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/630.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/631.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/632.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/633.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/634.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/635.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/636.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/637.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/638.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/639.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/64.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/640.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/641.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/642.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/643.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/644.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/645.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/646.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/647.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/648.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/649.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/65.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/650.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/651.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/652.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/653.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/654.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/655.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/656.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/657.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/658.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/659.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/66.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/660.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/661.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/662.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/663.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/664.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/665.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/666.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/667.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/668.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/669.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/67.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/670.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/671.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/672.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/673.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/674.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/675.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/676.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/677.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/678.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/679.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/68.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/680.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/681.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/682.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/683.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/684.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/685.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/686.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/687.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/688.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/689.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/69.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/690.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/691.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/692.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/693.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/694.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/695.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/696.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/697.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/698.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/699.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/70.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/700.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/701.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/702.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/703.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/704.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/705.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/706.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/707.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/708.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/709.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/71.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/710.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/711.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/712.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/713.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/714.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/715.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/716.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/717.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/718.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/719.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/72.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/720.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/721.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/722.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/723.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/724.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/725.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/726.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/727.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/728.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/729.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/73.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/730.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/731.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/732.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/733.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/734.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/735.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/736.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/737.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/738.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/739.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/74.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/740.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/741.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/742.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/743.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/744.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/745.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/746.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/747.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/748.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/749.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/75.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/750.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/751.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/752.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/753.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/754.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/755.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/756.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/757.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/758.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/759.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/76.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/760.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/77.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/78.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/79.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/80.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/81.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/82.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/83.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/84.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/85.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/86.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/87.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/88.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/89.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/90.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/91.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/92.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/93.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/94.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/95.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/96.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/97.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/98.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/99.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1824955323">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="js" value="7" />
+          <entry key="json" value="3" />
+          <entry key="pug" value="1" />
+          <entry key="www" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="3" />
+          <entry key="Jade" value="1" />
+          <entry key="JavaScript" value="9" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="12" />
+          <entry key="js" value="845" />
+          <entry key="json" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="8" />
+          <entry key="JavaScript" value="845" />
+          <entry key="PLAIN_TEXT" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/routes/chapterlist.js" />
+        <option value="$PROJECT_DIR$/routes/chapter.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="330" />
+    <option name="y" value="-11" />
+    <option name="width" value="1932" />
+    <option name="height" value="1085" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.12.0" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56b41cd7-9a25-44a9-9409-f42f9c2b0628" name="Default Changelist" comment="" />
+      <created>1587865957074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587865957074</updated>
+      <workItem from="1587865985555" duration="7183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7183000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32952183" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32952183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/error.pug">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="79" column="3" lean-forward="true" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/chapterlist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/chapter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="82" selection-start-line="8" selection-start-column="82" selection-end-line="8" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
