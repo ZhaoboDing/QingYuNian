@@ -12,6 +12,7 @@ router.get('/', (req, res) => {
             res.status(500).send('Load chapters error.');
         }
         else {
+            files.sort((a, b) => Number(a.match(/(\d+)/g)[0]) - Number((b.match(/(\d+)/g)[0])));
             res.send(files);
         }
     })
