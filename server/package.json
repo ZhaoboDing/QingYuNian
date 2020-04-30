@@ -7,9 +7,10 @@
   },
   "dependencies": {
     "cookie-parser": "latest",
+    "cors": "^2.8.5",
     "debug": "latest",
+    "express": "latest",
     "http-errors": "latest",
-    "morgan": "latest",
-    "express": "latest"
+    "morgan": "latest"
   }
 }

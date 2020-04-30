@@ -5,6 +5,7 @@ const createError = require('http-errors');
 const express = require('express');
 const http = require('http');
 const logger = require('morgan');
+const cors = require('cors');
 
 const chapterListRouter = require('./routes/chapterlist');
 const chapterRouter = require('./routes/chapter');
@@ -72,6 +73,7 @@ server.on('error', onError);
 server.on('listening', onListening);
 
 app.use(logger('dev'));
+app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
