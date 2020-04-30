@@ -15,7 +15,6 @@ router.get('/:chapterid', (req, res) => {
         else {
             files.sort((a, b) => Number(a.match(/(\d+)/g)[0]) - Number((b.match(/(\d+)/g)[0])));
             const index = files.indexOf(req.params.chapterid);
-            console.log(index);
             if (index === -1) {
                 res.send([null, null]);
             }

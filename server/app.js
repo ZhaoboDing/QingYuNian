@@ -11,6 +11,7 @@ const chapterListRouter = require('./routes/chapterlist');
 const chapterRouter = require('./routes/chapter');
 const chapterTitleRouter = require('./routes/chaptertitle');
 const neighbourChapterRouter = require('./routes/neighbourchapter');
+const firstChapterRouter = require('./routes/firstchapter');
 
 const debug = require('debug')('server:server');
 const app = express();
@@ -81,6 +82,7 @@ app.use('/chapterlist', chapterListRouter);
 app.use('/chapter', chapterRouter);
 app.use('/chaptertitle', chapterTitleRouter);
 app.use('/neighbour', neighbourChapterRouter);
+app.use('/firstchapter', firstChapterRouter);
 
 // catch 404 and forward to error handler
 app.use((req, res, next) => next(createError(404)));
