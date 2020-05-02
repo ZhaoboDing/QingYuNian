@@ -5,7 +5,7 @@ const path = require('path');
 const express = require('express');
 const router = express.Router();
 
-router.get('/', (req, res) => {
+router.post('/', (req, res) => {
     const loadTitle = filename => {
         const directoryPath = path.join(__dirname, '../book/' + filename);
         const chapter =  fs.readFileSync(directoryPath, 'utf-8');
